@@ -3,7 +3,7 @@ PRODIGY Internship - Machine Learning
 Task 1
 
 House Price Prediction
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Overview:
 
 The House Price Prediction project aims to implement a Linear Regression model to predict House prices based on square footage, the number of bedrooms and the number of bathrooms. The dataset consists of training and test data with 81 and 80 columns, respectively.
